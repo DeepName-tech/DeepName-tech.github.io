@@ -6,7 +6,7 @@ Names play an important role in software development and maintenance. Poor names
 
 
 ### Translation-Rule
-translation rules are listed [here](1.pdf)
+translation rules are listed [here](rules.pdf)
 
 
 ### Code
