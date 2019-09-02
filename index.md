@@ -5,7 +5,8 @@
 
 
 
-
+### translation-rule
+translation rules are listed [here](rules.pdf)
 
 ### Code
 
