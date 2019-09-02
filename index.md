@@ -6,7 +6,7 @@
 
 
 ### translation-rule
-translation rules are listed [here](rules.pdf)
+translation rules are listed [here](1.pdf)
 
 
 ### Code
