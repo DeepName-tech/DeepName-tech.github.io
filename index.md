@@ -15,4 +15,4 @@ You can download the source code of Meth2Vec and DeepName from [here](code.zip)
 
 ### Dataset
 
-Due to the large volume (around xxG) of our dataset, please contact *rachmanino@yahoo.com* for further use.
+Due to the large volume of our dataset, please contact *rachmanino@yahoo.com* for further use.
