@@ -1,3 +1,5 @@
 theme: jekyll-theme-leap-day
 title: Deep Method Naming
-is_project_page: false
+
+github:
+  repository_url: http://example.com
