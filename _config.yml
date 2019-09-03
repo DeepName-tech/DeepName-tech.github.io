@@ -1,2 +1,4 @@
 theme: jekyll-theme-leap-day
 title: Deep Method Naming
+github:
+  is_project_page: false
